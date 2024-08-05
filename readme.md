@@ -89,3 +89,7 @@ Polarization-Based Geolocalization: The novel use of polarization patterns combi
 
 # Future Implications
 The integration of these advanced technologies and methodologies into AUV systems represents a leap forward in underwater exploration. Smarter AUVs with enhanced navigation and positioning capabilities will be essential for deep-sea exploration, resource extraction, and scientific research, contributing to a better understanding and utilization of marine environments.
+
+# Glossary
+
+BEDD - Bearing, elevation and depth differece. 
