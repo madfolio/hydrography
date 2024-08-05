@@ -1,8 +1,11 @@
 # Hydrography
-
+Hydrography involves the measurement and description of the physical features of oceans, seas, coastal areas, lakes, and rivers, as well as the prediction of their change over time, primarily for safety, navigation, and marine operations.
 
 # Papers
 
+## General
+
+Advancements in the field of autonomous underwater vehicle
 https://www.sciencedirect.com/science/article/abs/pii/S0029801819301623
 
 
@@ -77,4 +80,12 @@ This research marks a significant step forward in developing reliable underwater
 
 https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-12-20706&id=551049
 
+# Analysis
+The studies highlight significant advancements in AUV navigation and positioning:
 
+Reinforcement Learning for AUV Navigation: By employing reinforcement learning, particularly the SAC algorithm, the proposed frameworks significantly improve AUVs' ability to navigate complex underwater environments. This model-free approach allows for dynamic adaptation, crucial for real-world applications.
+
+Polarization-Based Geolocalization: The novel use of polarization patterns combined with advanced DNNs addresses traditional limitations in underwater navigation. The introduction of the Sectoral Transformer improves robustness and accuracy, paving the way for more reliable underwater geolocalization.
+
+# Future Implications
+The integration of these advanced technologies and methodologies into AUV systems represents a leap forward in underwater exploration. Smarter AUVs with enhanced navigation and positioning capabilities will be essential for deep-sea exploration, resource extraction, and scientific research, contributing to a better understanding and utilization of marine environments.
