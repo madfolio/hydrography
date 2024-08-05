@@ -9,6 +9,12 @@ https://www.sciencedirect.com/science/article/abs/pii/S0029801819301623
 ## AUV Strategies
 
 ### Avoidance Methods
+
+
+#### Navigation Strategies of a Cruising AUV for Near-Bottom Survey of a Steep Terrain
+https://www.sciencedirect.com/science/article/pii/S2405896316309880
+
+
 #### Revolutionizing Underwater Navigation: A New Framework for AUV Obstacle Avoidance
 
 In the quest to explore the vast and resource-rich oceans, the deployment of Autonomous Underwater Vehicles (AUVs) has become increasingly vital. These intelligent, unmanned vehicles are designed to replace humans in performing hazardous underwater tasks. A recent study by researchers from Tianjin University has made significant strides in enhancing the obstacle avoidance capabilities of AUVs using advanced reinforcement learning techniques.
