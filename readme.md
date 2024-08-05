@@ -1,15 +1,37 @@
-# Hydrography
+# AUV Hydrography
 Hydrography involves the measurement and description of the physical features of oceans, seas, coastal areas, lakes, and rivers, as well as the prediction of their change over time, primarily for safety, navigation, and marine operations.
+
+Autonomous Underwater Vehicles (AUVs) are particularly valuable in hydrography due to their unique capabilities and advantages over traditional methods. Here are several key aspects that make AUVs special in relation to hydrography:
+
+1. Autonomous Operation
+Unmanned and Autonomous: AUVs can operate without human intervention, navigating and conducting surveys autonomously. This capability is crucial for exploring hazardous or difficult-to-reach underwater environments where human presence is risky or impractical.
+
+2. High Precision and Accuracy
+Advanced Sensors: Equipped with state-of-the-art sensors, including sonar, cameras, and environmental sensors, AUVs can capture high-resolution and precise data about underwater topography, features, and conditions.
+Consistent Data Quality: AUVs can maintain a consistent speed and trajectory, ensuring uniform data collection, which is vital for accurate mapping and analysis.
+
+3. Flexibility and Adaptability
+Variety of Missions: AUVs can be programmed for various hydrographic missions, such as bathymetric mapping, seabed characterization, and environmental monitoring. They can adapt their missions based on real-time data and pre-defined criteria.
+Dynamic Environment Adaptation: Advanced algorithms and control systems allow AUVs to adapt to changing underwater conditions, such as currents and obstacles, ensuring continuous and reliable operation.
+
+4. Cost-Effectiveness
+Reduced Operational Costs: AUVs reduce the need for manned missions and large support vessels, lowering the overall cost of hydrographic surveys. Their autonomous nature allows for longer deployments with minimal human oversight.
 
 # Papers
 
 ## General
 
-Advancements in the field of autonomous underwater vehicle
-https://www.sciencedirect.com/science/article/abs/pii/S0029801819301623
+[Advancements in the field of autonomous underwater vehicle](https://www.sciencedirect.com/science/article/abs/pii/S0029801819301623)
 
 
 ## AUV Strategies
+
+### Multiple AUVs
+
+[Bearing, elevation, and depth difference passive inverted acoustic navigation for an AUV fleet](https://www.sciencedirect.com/science/article/abs/pii/S0141118724000191)
+
+[Low-cost high-performance seafloor surveying by multiple autonomous underwater vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118721002388)
+
 
 ### Avoidance Methods
 
@@ -93,3 +115,4 @@ The integration of these advanced technologies and methodologies into AUV system
 # Glossary
 
 BEDD - Bearing, elevation and depth differece. 
+piSSBL - Passive inverted super short baseline. 
