@@ -55,10 +55,14 @@ In conclusion, the governance of the marine mineral sector is a complex interpla
 
 
 
-## Our Methodoloy
+## Our Methodology
+Our specialisation is the deployment of AUVs with a number of sensors. This allows sensors to be deployed near to the seabed enabling high resolution data acquisition. 
 
 
 ## AUV Specifications
-We encountered the following challenges
+We encountered the following challenges:
 
 * Terrain
+* Sensor Suitability
+* Noise
+
