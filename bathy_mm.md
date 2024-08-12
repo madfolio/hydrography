@@ -2,6 +2,11 @@
 
 We have developed a methodology for assisting organisations in detecting marine minerals. This is not the extraction of marine minerals but just the detection and evaluation of specific locations. 
 
+## Problem Statement
+Demand for metals is increasing. The sustainable and equitable extraction first needs a methodology to understand their scale and the potential impact of extraction. As noted by [Lusty (2018)](https://www.researchgate.net/publication/328153758_Deep-Ocean_Mineral_Deposits_Metal_Resources_and_Windows_into_Earth_Processes):
+
+```"The sheer scale of the task appears overwhelming: the exploration areas are typically intercontinental in scale, very remote and in water depths reaching several thousand metres. The key to advancing understanding, to improving the efficiency of exploration and to reducing costs will be international collaboration between different academic disciplines and industry, innovative technology and ensuring that data are openly available"```
+
 ## What Are Marine Minerals  
 
 Marine minerals, naturally occurring materials found in the ocean, are of significant economic, environmental, and scientific interest. The main types of marine minerals include polymetallic nodules, polymetallic sulfides, cobalt-rich ferromanganese crusts, marine phosphorites, and marine placers.
